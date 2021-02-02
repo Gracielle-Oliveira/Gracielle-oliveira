@@ -1,3 +1,6 @@
+:! [Codigos] (https://www.google.com/url?sa=i&url=https%3A%2F%2Funiversidadedatecnologia.com.br%2Fo-que-e-linguagem-de-programacao%2F&psig=AOvVaw3bpCpZ2CEIShiKaPyGOf85&ust=1612360426904000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDYi-6sy-4CFQAAAAAdAAAAABAV)
+
+
 🙆🏾‍ Muito prazer, sou Gracielle Oliveira, 38 anos e uma grande bagagem profissional na área financeira e administrativa 💰. Mas atualmente estou me reinventando e resgatando uma antiga paixão de aprender a codar 💻.
 
 Decidi me dedicar á área da tecnologia e buscar conhecimento para me tornar uma Desenvolvedora Front-End 🚀.
@@ -8,7 +11,7 @@ Angular. Finalizei o curso, mas me atualizo frequentemente com cursos livres.
 Até conseguir uma oportunidade para por em prática todo conhecimento adquirido, continuarei buscando projetos para praticar e os colocando por aqui, fique á vontade para dar uma espiadinha 😉.
 
 
-🖱 **Conhecimentos** 💻
+ #### 🖱 **Conhecimentos** 💻
 
 - JavaScript
 - React
