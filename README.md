@@ -2,7 +2,7 @@
 
 Decidi me dedicar á área da tecnologia e buscar conhecimento para me tornar uma Desenvolvedora Front-End 🚀.
 
-E nessa caminhada encontrei a bootcamp Newtab que me ensinou na teoria e com muita prática. Tive um intenso aprendizado em Metodologias ágeis, HTML, CSS, JavaScript, ReactJS e
+E nessa caminhada encontrei a bootcamp [Newtab] que me ensinou na teoria e com muita prática. Tive um intenso aprendizado em Metodologias ágeis, HTML, CSS, JavaScript, ReactJS e
 Angular. Finalizei o curso, mas me atualizo frequentemente com cursos livres.
 
 Até conseguir uma oportunidade para por em prática todo conhecimento adquirido, continuarei buscando projetos para praticar e os colocando por aqui, fique á vontade para dar uma espiadinha 😉.
