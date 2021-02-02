@@ -8,7 +8,7 @@ Angular. Finalizei o curso, mas me atualizo frequentemente com cursos livres.
 Até conseguir uma oportunidade para por em prática todo conhecimento adquirido, continuarei buscando projetos para praticar e os colocando por aqui, fique á vontade para dar uma espiadinha 😉.
 
 
-🖱 Conhecimentos 💻
+🖱 **Conhecimentos** 💻
 
 - JavaScript
 - React
