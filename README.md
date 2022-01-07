@@ -5,20 +5,28 @@
 
 Decidi me dedicar á área da tecnologia e buscar conhecimento para me tornar uma Desenvolvedora Front-End 🚀.
 
-E nessa caminhada encontrei a bootcamp **Newtab Academy** que me ensinou na teoria e com muita prática. Tive um intenso aprendizado em Metodologias ágeis, HTML, CSS, JavaScript, ReactJS e
-Angular. Finalizei o curso, mas me atualizo frequentemente com cursos livres.
+E nessa caminhada busquei bastante teoria e muita prática. Tive um intenso aprendizado em Metodologias ágeis, HTML, CSS, JavaScript, TypeScript, ReactJS e
+Angular8+. Me atualizo frequentemente com cursos livres, atuo com Angular8+, Html,Css, SCSS, bootstrap, testes unitários, acompanho integração com back e deploy na AWS.
 
-Até conseguir uma oportunidade para por em prática todo conhecimento adquirido, continuarei buscando projetos para praticar e os colocando por aqui, fique á vontade para dar uma espiadinha 😉.
+Hoej pratico o conhecimento adquirido, mas continuo buscando novas atualizações e aprimorações. Fique á vontade para dar uma espiadinha 😉.
 
 
- #### 🖱 **Conhecimentos** 💻
+ #### 🖱 **Conhecimentos de atuações** 💻
 
-- JavaScript
-- React
-- Angular
+- Angular8+
 - HTML
 - CSS
+- SASS
+- TypeScript
 - Responsividade
+- Teste Unitário
 - Git
+- GitLab
+
+#### 🖱 **Aprendizados** 💻
+
+- JavaScript
+- ReactJs
+- Integração
 
 https://www.linkedin.com/in/gracielle-oliveira-9a948064
