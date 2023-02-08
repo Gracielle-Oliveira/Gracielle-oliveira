@@ -1,7 +1,7 @@
 
 
 
-🙆🏾‍ Muito prazer, sou Gracielle Oliveira, 38 anos e uma grande bagagem profissional na área financeira e administrativa 💰. Mas atualmente estou me reinventando e resgatando uma antiga paixão de aprender a codar 💻.
+🙆🏾‍ Muito prazer, sou Gracielle Oliveira, 40 anos e uma grande bagagem profissional na área financeira e administrativa 💰. Mas atualmente estou me reinventando e resgatando uma antiga paixão de aprender a codar 💻.
 
 Decidi me dedicar á área da tecnologia e buscar conhecimento para me tornar uma Desenvolvedora Front-End 🚀.
 
